@@ -21,3 +21,8 @@ function product_serach(products,search){
 
  const Search=product_serach(products,  "aSus");
  console.log(Search);
+
+
+const text=document.getElementsByClassName('check');
+console.log(text.innerText);
+
